@@ -1,0 +1,204 @@
+15:37:04.083 INFO o.e.d.DriverManager [main]  getWebDriver
+15:37:04.085 INFO o.e.d.DriverManager [main]  getChromeDriver
+15:37:12.039 INFO o.e.l.TestListener [main]  onTestStart
+15:37:12.056 INFO o.e.m.LoginTest [main]  testneki
+15:37:12.058 INFO o.e.l.TestListener [main]  onTestSuccess
+15:52:10.671 INFO o.e.d.DriverManager [main]  getWebDriver
+15:52:10.674 INFO o.e.d.DriverManager [main]  getChromeDriver
+15:52:19.118 INFO o.e.l.TestListener [main]  onTestStart
+15:52:19.133 INFO o.e.m.LoginTest [main]  testneki
+15:52:19.135 INFO o.e.l.TestListener [main]  onTestSuccess
+16:01:35.956 INFO o.e.d.DriverManager [main]  getWebDriver
+16:01:35.959 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:01:56.825 INFO o.e.l.TestListener [main]  onTestStart
+16:01:56.848 INFO o.e.m.LoginTest [main]  testneki
+16:01:56.849 INFO o.e.l.TestListener [main]  onTestSuccess
+16:03:44.568 INFO o.e.d.DriverManager [main]  getWebDriver
+16:03:44.570 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:03:50.582 INFO o.e.l.TestListener [main]  onTestStart
+16:03:50.615 INFO o.e.m.LoginTest [main]  testneki
+16:03:50.618 INFO o.e.l.TestListener [main]  onTestSuccess
+16:08:25.386 INFO o.e.d.DriverManager [main]  getWebDriver
+16:08:25.388 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:08:32.607 INFO o.e.l.TestListener [main]  onTestStart
+16:08:32.626 INFO o.e.m.LoginTest [main]  testneki
+16:08:32.627 INFO o.e.l.TestListener [main]  onTestFailure
+16:08:32.627 INFO o.e.d.DriverManager [main]  getWebDriver
+16:08:33.046 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+16:16:13.529 INFO o.e.d.DriverManager [main]  getWebDriver
+16:16:13.531 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:16:26.990 INFO o.e.l.TestListener [main]  onTestStart
+16:16:27.010 INFO o.e.m.LoginTest [main]  testneki
+16:16:27.014 INFO o.e.l.TestListener [main]  onTestFailure
+16:16:27.014 INFO o.e.d.DriverManager [main]  getWebDriver
+16:16:27.559 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+16:19:02.003 INFO o.e.d.DriverManager [main]  getWebDriver
+16:19:02.005 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:19:08.946 INFO o.e.l.TestListener [main]  onTestStart
+16:19:08.962 INFO o.e.m.LoginTest [main]  testneki
+16:19:08.963 INFO o.e.l.TestListener [main]  onTestFailure
+16:19:08.963 INFO o.e.d.DriverManager [main]  getWebDriver
+16:19:09.451 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+16:20:26.434 INFO o.e.d.DriverManager [main]  getWebDriver
+16:20:26.437 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:20:34.208 INFO o.e.l.TestListener [main]  onTestStart
+16:20:34.222 INFO o.e.m.LoginTest [main]  testneki
+16:20:34.224 INFO o.e.l.TestListener [main]  onTestFailure
+16:20:34.224 INFO o.e.d.DriverManager [main]  getWebDriver
+16:20:34.793 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+16:21:48.285 INFO o.e.d.DriverManager [main]  getWebDriver
+16:21:48.287 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:21:59.352 INFO o.e.l.TestListener [main]  onTestStart
+16:21:59.373 INFO o.e.m.LoginTest [main]  testneki
+16:21:59.375 INFO o.e.l.TestListener [main]  onTestFailure
+16:21:59.375 INFO o.e.d.DriverManager [main]  getWebDriver
+16:21:59.899 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+16:31:52.125 INFO o.e.d.DriverManager [main]  getWebDriver
+16:31:52.127 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:32:07.930 INFO o.e.l.TestListener [main]  onTestStart
+16:32:07.949 INFO o.e.m.LoginTest [main]  testneki
+16:32:07.950 INFO o.e.l.TestListener [main]  onTestFailure
+16:32:07.950 INFO o.e.d.DriverManager [main]  getWebDriver
+16:32:08.545 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+16:33:19.764 INFO o.e.d.DriverManager [main]  getWebDriver
+16:33:19.766 INFO o.e.d.DriverManager [main]  getChromeDriver
+16:33:27.875 INFO o.e.l.TestListener [main]  onTestStart
+16:33:27.904 INFO o.e.m.LoginTest [main]  testneki
+16:33:27.905 INFO o.e.l.TestListener [main]  onTestFailure
+16:33:27.905 INFO o.e.d.DriverManager [main]  getWebDriver
+16:33:28.432 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:27:06.285 INFO o.e.d.DriverManager [main]  getWebDriver
+19:27:06.288 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:27:19.876 INFO o.e.l.TestListener [main]  onTestStart
+19:27:19.894 INFO o.e.m.LoginTest [main]  testneki
+19:27:19.895 INFO o.e.l.TestListener [main]  onTestFailure
+19:27:19.896 INFO o.e.d.DriverManager [main]  getWebDriver
+19:27:20.371 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:29:13.069 INFO o.e.d.DriverManager [main]  getWebDriver
+19:29:13.071 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:29:25.047 INFO o.e.l.TestListener [main]  onTestStart
+19:29:25.061 INFO o.e.m.LoginTest [main]  testneki
+19:29:25.062 INFO o.e.l.TestListener [main]  onTestFailure
+19:29:25.062 INFO o.e.d.DriverManager [main]  getWebDriver
+19:29:25.583 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:31:11.799 INFO o.e.d.DriverManager [main]  getWebDriver
+19:31:11.801 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:31:29.391 INFO o.e.l.TestListener [main]  onTestStart
+19:31:29.409 INFO o.e.m.LoginTest [main]  testneki
+19:31:29.410 INFO o.e.l.TestListener [main]  onTestFailure
+19:31:29.410 INFO o.e.d.DriverManager [main]  getWebDriver
+19:31:29.907 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:33:06.717 INFO o.e.d.DriverManager [main]  getWebDriver
+19:33:06.719 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:33:16.174 INFO o.e.l.TestListener [main]  onTestStart
+19:33:16.191 INFO o.e.m.LoginTest [main]  testneki
+19:33:16.192 INFO o.e.l.TestListener [main]  onTestFailure
+19:33:16.192 INFO o.e.d.DriverManager [main]  getWebDriver
+19:33:16.636 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:34:13.279 INFO o.e.d.DriverManager [main]  getWebDriver
+19:34:13.281 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:34:20.963 INFO o.e.l.TestListener [main]  onTestStart
+19:34:20.978 INFO o.e.m.LoginTest [main]  testneki
+19:34:20.980 INFO o.e.l.TestListener [main]  onTestFailure
+19:34:20.980 INFO o.e.d.DriverManager [main]  getWebDriver
+19:34:21.458 INFO o.e.d.DriverManager [main]  null
+19:34:21.458 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:38:20.293 INFO o.e.d.DriverManager [main]  getWebDriver
+19:38:20.295 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:38:28.328 INFO o.e.l.TestListener [main]  onTestStart
+19:38:28.347 INFO o.e.m.LoginTest [main]  testneki
+19:38:28.349 INFO o.e.l.TestListener [main]  onTestFailure
+19:38:28.349 INFO o.e.d.DriverManager [main]  getWebDriver
+19:38:28.825 ERROR o.e.d.DriverManager [main]  Test Failed with message: null
+19:38:28.825 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:38:57.903 INFO o.e.d.DriverManager [main]  getWebDriver
+19:38:57.905 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:39:05.126 INFO o.e.l.TestListener [main]  onTestStart
+19:39:05.141 INFO o.e.m.LoginTest [main]  testneki
+19:39:05.143 INFO o.e.l.TestListener [main]  onTestFailure
+19:39:05.143 INFO o.e.d.DriverManager [main]  getWebDriver
+19:39:05.676 ERROR o.e.d.DriverManager [main]  Test Failed with message: null
+19:39:05.676 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:45:11.803 INFO o.e.d.DriverManager [main]  getWebDriver
+19:45:11.805 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:45:17.212 INFO o.e.l.TestListener [main]  onTestStart
+19:45:17.213 INFO o.e.l.TestListener [main]  onTestSkipped
+19:45:33.079 INFO o.e.d.DriverManager [main]  getWebDriver
+19:45:33.081 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:45:40.064 INFO o.e.l.TestListener [main]  onTestStart
+19:45:40.078 INFO o.e.m.LoginTest [main]  testneki
+19:45:40.079 INFO o.e.l.TestListener [main]  onTestFailure
+19:45:40.079 INFO o.e.d.DriverManager [main]  getWebDriver
+19:45:40.566 ERROR o.e.d.DriverManager [main]  Test Failed with message: null
+19:45:40.566 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:48:44.979 INFO o.e.d.DriverManager [main]  getWebDriver
+19:48:44.990 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:48:52.430 INFO o.e.l.TestListener [main]  onTestStart
+19:48:52.445 INFO o.e.m.LoginTest [main]  testneki
+19:48:52.446 INFO o.e.l.TestListener [main]  onTestFailure
+19:48:52.446 INFO o.e.d.DriverManager [main]  getWebDriver
+19:48:53.011 ERROR o.e.d.DriverManager [main]  Test Failed with message: null
+19:48:53.011 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:49:51.699 INFO o.e.d.DriverManager [main]  getWebDriver
+19:49:51.701 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:49:58.914 INFO o.e.l.TestListener [main]  onTestStart
+19:49:58.931 INFO o.e.m.LoginTest [main]  testneki
+19:49:58.933 INFO o.e.l.TestListener [main]  onTestFailure
+19:49:58.933 INFO o.e.d.DriverManager [main]  getWebDriver
+19:49:59.521 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:51:01.163 INFO o.e.d.DriverManager [main]  getWebDriver
+19:51:01.165 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:51:08.508 INFO o.e.l.TestListener [main]  onTestStart
+19:51:08.525 INFO o.e.m.LoginTest [main]  testneki
+19:51:08.527 INFO o.e.l.TestListener [main]  onTestFailure
+19:51:08.527 INFO o.e.d.DriverManager [main]  getWebDriver
+19:51:09.058 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:52:20.943 INFO o.e.d.DriverManager [main]  getWebDriver
+19:52:20.945 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:52:29.526 INFO o.e.l.TestListener [main]  onTestStart
+19:52:29.541 INFO o.e.m.LoginTest [main]  testneki
+19:52:29.542 INFO o.e.l.TestListener [main]  onTestFailure
+19:52:29.542 INFO o.e.d.DriverManager [main]  getWebDriver
+19:52:30.124 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:53:51.390 INFO o.e.d.DriverManager [main]  getWebDriver
+19:53:51.393 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:53:58.861 INFO o.e.l.TestListener [main]  onTestStart
+19:53:58.876 INFO o.e.m.LoginTest [main]  testneki
+19:53:58.878 INFO o.e.l.TestListener [main]  onTestFailure
+19:53:58.878 INFO o.e.d.DriverManager [main]  getWebDriver
+19:53:59.415 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+19:57:48.600 INFO o.e.d.DriverManager [main]  getWebDriver
+19:57:48.602 INFO o.e.d.DriverManager [main]  getChromeDriver
+19:57:56.583 INFO o.e.l.TestListener [main]  onTestStart
+19:57:56.600 INFO o.e.m.LoginTest [main]  testneki
+19:57:56.601 INFO o.e.l.TestListener [main]  onTestFailure
+19:57:56.601 INFO o.e.d.DriverManager [main]  getWebDriver
+19:57:57.653 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+20:06:44.388 INFO o.e.d.DriverManager [main]  getWebDriver
+20:06:44.391 INFO o.e.d.DriverManager [main]  getChromeDriver
+20:06:53.525 INFO o.e.l.TestListener [main]  onTestStart
+20:06:53.540 INFO o.e.m.LoginTest [main]  testneki
+20:06:53.541 INFO o.e.l.TestListener [main]  onTestFailure
+20:06:53.541 INFO o.e.d.DriverManager [main]  getWebDriver
+20:06:54.095 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+20:16:35.919 INFO o.e.d.DriverManager [main]  getWebDriver
+20:16:35.921 INFO o.e.d.DriverManager [main]  getChromeDriver
+20:16:49.050 INFO o.e.l.TestListener [main]  onTestStart
+20:16:49.067 INFO o.e.m.LoginTest [main]  testneki
+20:16:49.069 INFO o.e.l.TestListener [main]  onTestFailure
+20:16:49.069 INFO o.e.d.DriverManager [main]  getWebDriver
+20:16:49.637 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+20:20:40.660 INFO o.e.d.DriverManager [main]  getWebDriver
+20:20:40.662 INFO o.e.d.DriverManager [main]  getChromeDriver
+20:20:50.891 INFO o.e.l.TestListener [main]  onTestStart
+20:20:50.909 INFO o.e.m.LoginTest [main]  testneki
+20:20:50.910 INFO o.e.l.TestListener [main]  onTestFailure
+20:20:50.910 INFO o.e.d.DriverManager [main]  getWebDriver
+20:20:51.530 ERROR o.e.l.TestListener [main]  Test Failed with message: null
+20:22:14.038 INFO o.e.d.DriverManager [main]  getWebDriver
+20:22:14.040 INFO o.e.d.DriverManager [main]  getChromeDriver
+20:22:19.987 INFO o.e.l.TestListener [main]  onTestStart
+20:22:20.001 INFO o.e.m.LoginTest [main]  testneki
+20:22:20.012 INFO o.e.l.TestListener [main]  onTestFailure
+20:22:20.012 INFO o.e.d.DriverManager [main]  getWebDriver
+20:22:20.563 ERROR o.e.l.TestListener [main]  Test Failed with message: null
